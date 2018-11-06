@@ -99,9 +99,11 @@ class App extends Component {
                       </FormGroup>
                     </Col>
                     <Col md={2}>
-                      <Button class="search-btn" block type="submit">
+                    <div className="search-btn">
+                      <Button  block type="submit">
                         Search
                       </Button>
+                      </div>
                     </Col>
                   </Row>
                 </Tab>
