@@ -19,9 +19,7 @@ nav ul li {
   display: inline;
   padding-left: 25px;
 }
-main {
 
-}
 .search-header {
   color: #FFFFFF;
   background-color: #025694;
@@ -63,3 +61,25 @@ footer {
 }
 
 .search-btn .btn {margin-top: 21px;}
+
+tbody {
+  background-color: #F1F5F7;
+}
+.table>thead>tr>th {
+  font-weight: 600;
+}
+.table>tbody>tr:not(.additional-data-row)>td{
+  border:none;
+  font-weight: 600;
+}
+
+.table>tbody>tr.additional-data-row td{
+  border:none;
+  padding-top: 3px;
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+
+.table>tbody>tr a{
+  color:#26784E
+}
