@@ -1,5 +1,7 @@
 ## DEMO
-[https://kc-client-lookup.surge.sh](https://kc-client-lookup.surge.sh)
+Search [https://kc-client-lookup.surge.sh](https://kc-client-lookup.surge.sh)
+
+Results [https://kc-client-lookup.surge.sh/results](https://kc-client-lookup.surge.sh/results)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
