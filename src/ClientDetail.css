@@ -1,0 +1,13 @@
+#search-details-tabs .tab-pane {
+  padding: 20px 0;
+  
+}
+
+.nav-tabs>li>a:hover {
+  padding-bottom: 9px;
+  border-bottom:0;
+}
+
+.search-content .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+  border-bottom:none !important;
+}

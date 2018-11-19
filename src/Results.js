@@ -4,15 +4,13 @@ import {
   Table,
   Badge
 } from 'react-bootstrap';
-import { FaSearch, FaTimes } from 'react-icons/fa';
+import { FaTimes } from 'react-icons/fa';
+import SearchNav from './SearchNav';
 
 const Results = () => {
   return (
     <div>
-      <div className="search-header">
-        <Grid>RESULTS <span style={{float:"right"}}><FaSearch /></span></Grid>
-
-      </div>
+      <SearchNav title="RESULTS" search/>
       
       <div className="search-content">
         <Grid>

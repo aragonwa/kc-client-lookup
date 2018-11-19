@@ -3,6 +3,8 @@ Search [https://kc-client-lookup.surge.sh](https://kc-client-lookup.surge.sh)
 
 Results [https://kc-client-lookup.surge.sh/results](https://kc-client-lookup.surge.sh/results)
 
+Details [https://kc-client-lookup.surge.sh/results](https://kc-client-lookup.surge.sh/details)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

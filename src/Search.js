@@ -10,13 +10,12 @@ import {
   ControlLabel,
   Button
 } from 'react-bootstrap';
+import SearchNav from './SearchNav'
 
 const Search = () => {
   return (
     <div>
-      <div className="search-header">
-        <Grid>SEARCH</Grid>
-      </div>
+      <SearchNav title="SEARCH" />
       <div className="search-content">
         <Grid>
           <Tabs defaultActiveKey={1} animation={false}>
